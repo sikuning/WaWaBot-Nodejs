@@ -1,0 +1,32 @@
+{
+  "name": "wawabot",
+  "version": "1.0.0",
+  "description": "Node.js client untuk mengirim pesan WhatsApp melalui WaWa API",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "whatsapp",
+    "wawabot",
+    "wa-api",
+    "whatsapp-api"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USERNAME/WaWaBot-Nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/USERNAME/WaWaBot-Nodejs/issues"
+  },
+  "homepage": "https://github.com/USERNAME/WaWaBot-Nodejs#readme"
+}
