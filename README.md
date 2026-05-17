@@ -2,6 +2,8 @@
 
 Client Node.js untuk mengirim pesan WhatsApp lewat [WaWa API](https://wa-api.knn.my.id).
 
+**Repository:** [github.com/sikuning/WaWaBot-Nodejs](https://github.com/sikuning/WaWaBot-Nodejs)
+
 ## Install
 
 ```bash

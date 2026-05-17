@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/USERNAME/WaWaBot-Nodejs.git"
+    "url": "git+https://github.com/sikuning/WaWaBot-Nodejs.git"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/WaWaBot-Nodejs/issues"
+    "url": "https://github.com/sikuning/WaWaBot-Nodejs/issues"
   },
-  "homepage": "https://github.com/USERNAME/WaWaBot-Nodejs#readme"
+  "homepage": "https://github.com/sikuning/WaWaBot-Nodejs#readme"
 }
